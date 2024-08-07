@@ -36,6 +36,7 @@ Leveraging the power of Python and the Pygame library, this project not only pro
 
 <br>
 <br>
+
 **🚀 Get Started**
 <br>
 Ready to test your skills against our AI? Follow the setup instructions in the repository to get the game up and running on your machine. Whether you're here to play or to delve into the code, we hope you enjoy the journey.
